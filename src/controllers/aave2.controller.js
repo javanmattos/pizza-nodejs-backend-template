@@ -1,5 +1,3 @@
-const httpStatus = require("http-status")
-
 const getAave2Transactions = async (req, res, next) => {
   const walletAddress = req.params.walletAddress
   try {

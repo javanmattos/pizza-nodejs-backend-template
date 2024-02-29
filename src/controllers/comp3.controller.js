@@ -1,5 +1,3 @@
-const httpStatus = require("http-status")
-const web3 = require("web3")
 const axios = require("axios")
 
 const {
